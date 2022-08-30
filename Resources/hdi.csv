@@ -1,0 +1,190 @@
+Country,Country Code,HDI
+Afghanistan,AFG,0.511
+Angola,AGO,0.581
+Albania,ALB,0.795
+Andorra,AND,0.868
+United Arab Emirates,ARE,0.89
+Argentina,ARG,0.845
+Armenia,ARM,0.776
+Antigua and Barbuda,ATG,0.778
+Australia,AUS,0.944
+Austria,AUT,0.922
+Azerbaijan,AZE,0.756
+Burundi,BDI,0.433
+Belgium,BEL,0.931
+Benin,BEN,0.545
+Burkina Faso,BFA,0.452
+Bangladesh,BGD,0.632
+Bulgaria,BGR,0.816
+Bahrain,BHR,0.852
+Bahamas,BHS,0.814
+Bosnia and Herzegovina,BIH,0.78
+Belarus,BLR,0.823
+Belize,BLZ,0.716
+Bolivia (Plurinational State of),BOL,0.718
+Brazil,BRA,0.765
+Barbados,BRB,0.814
+Brunei Darussalam,BRN,0.838
+Bhutan,BTN,0.654
+Botswana,BWA,0.735
+Central African Republic,CAF,0.397
+Canada,CAN,0.929
+Switzerland,CHE,0.955
+Chile,CHL,0.851
+China,CHN,0.761
+Cote d'Ivoire,CIV,0.538
+Cameroon,CMR,0.563
+Congo (Democratic Republic of the),COD,0.48
+Congo,COG,0.574
+Colombia,COL,0.767
+Comoros,COM,0.554
+Cabo Verde,CPV,0.665
+Costa Rica,CRI,0.81
+Cuba,CUB,0.783
+Cyprus,CYP,0.887
+Czechia,CZE,0.9
+Germany,DEU,0.947
+Djibouti,DJI,0.524
+Dominica,DMA,0.742
+Denmark,DNK,0.94
+Dominican Republic,DOM,0.756
+Algeria,DZA,0.748
+Ecuador,ECU,0.759
+Egypt,EGY,0.707
+Eritrea,ERI,0.459
+Spain,ESP,0.904
+Estonia,EST,0.892
+Ethiopia,ETH,0.485
+Finland,FIN,0.938
+Fiji,FJI,0.743
+France,FRA,0.901
+Micronesia (Federated States of),FSM,0.62
+Gabon,GAB,0.703
+United Kingdom,GBR,0.932
+Georgia,GEO,0.812
+Ghana,GHA,0.611
+Guinea,GIN,0.477
+Gambia,GMB,0.496
+Guinea-Bissau,GNB,0.48
+Equatorial Guinea,GNQ,0.592
+Greece,GRC,0.888
+Grenada,GRD,0.779
+Guatemala,GTM,0.663
+Guyana,GUY,0.682
+"Hong Kong, China (SAR)",HKG,0.949
+Honduras,HND,0.634
+Croatia,HRV,0.851
+Haiti,HTI,0.51
+Hungary,HUN,0.854
+Indonesia,IDN,0.718
+India,IND,0.645
+Ireland,IRL,0.955
+Iran (Islamic Republic of),IRN,0.783
+Iraq,IRQ,0.674
+Iceland,ISL,0.949
+Israel,ISR,0.919
+Italy,ITA,0.892
+Jamaica,JAM,0.734
+Jordan,JOR,0.729
+Japan,JPN,0.919
+Kazakhstan,KAZ,0.825
+Kenya,KEN,0.601
+Kyrgyzstan,KGZ,0.697
+Cambodia,KHM,0.594
+Kiribati,KIR,0.63
+Saint Kitts and Nevis,KNA,0.779
+Korea (Republic of),KOR,0.916
+Kuwait,KWT,0.806
+Lao People's Democratic Republic,LAO,0.613
+Lebanon,LBN,0.744
+Liberia,LBR,0.48
+Libya,LBY,0.724
+Saint Lucia,LCA,0.759
+Liechtenstein,LIE,0.919
+Sri Lanka,LKA,0.782
+Lesotho,LSO,0.527
+Lithuania,LTU,0.882
+Luxembourg,LUX,0.916
+Latvia,LVA,0.866
+Morocco,MAR,0.686
+Moldova (Republic of),MDA,0.75
+Madagascar,MDG,0.528
+Maldives,MDV,0.74
+Mexico,MEX,0.779
+Marshall Islands,MHL,0.704
+North Macedonia,MKD,0.774
+Mali,MLI,0.434
+Malta,MLT,0.895
+Myanmar,MMR,0.583
+Montenegro,MNE,0.829
+Mongolia,MNG,0.737
+Mozambique,MOZ,0.456
+Mauritania,MRT,0.546
+Mauritius,MUS,0.804
+Malawi,MWI,0.483
+Malaysia,MYS,0.81
+Namibia,NAM,0.646
+Niger,NER,0.394
+Nigeria,NGA,0.539
+Nicaragua,NIC,0.66
+Netherlands,NLD,0.944
+Norway,NOR,0.957
+Nepal,NPL,0.602
+New Zealand,NZL,0.931
+Oman,OMN,0.813
+Pakistan,PAK,0.557
+Panama,PAN,0.815
+Peru,PER,0.777
+Philippines,PHL,0.718
+Palau,PLW,0.826
+Papua New Guinea,PNG,0.555
+Poland,POL,0.88
+Portugal,PRT,0.864
+Paraguay,PRY,0.728
+"Palestine, State of",PSE,0.708
+Qatar,QAT,0.848
+Romania,ROU,0.828
+Russian Federation,RUS,0.824
+Rwanda,RWA,0.543
+Saudi Arabia,SAU,0.854
+Sudan,SDN,0.51
+Senegal,SEN,0.512
+Singapore,SGP,0.938
+Solomon Islands,SLB,0.567
+Sierra Leone,SLE,0.452
+El Salvador,SLV,0.673
+Serbia,SRB,0.806
+South Sudan,SSD,0.433
+Sao Tome and Principe,STP,0.625
+Suriname,SUR,0.738
+Slovakia,SVK,0.86
+Slovenia,SVN,0.917
+Sweden,SWE,0.945
+Eswatini (Kingdom of),SWZ,0.611
+Seychelles,SYC,0.796
+Syrian Arab Republic,SYR,0.567
+Chad,TCD,0.398
+Togo,TGO,0.515
+Thailand,THA,0.777
+Tajikistan,TJK,0.668
+Turkmenistan,TKM,0.715
+Timor-Leste,TLS,0.606
+Tonga,TON,0.725
+Trinidad and Tobago,TTO,0.796
+Tunisia,TUN,0.74
+Turkey,TUR,0.82
+Tanzania (United Republic of),TZA,0.529
+Uganda,UGA,0.544
+Ukraine,UKR,0.779
+Uruguay,URY,0.817
+United States,USA,0.926
+Uzbekistan,UZB,0.72
+Saint Vincent and the Grenadines,VCT,0.738
+Venezuela (Bolivarian Republic of),VEN,0.711
+Viet Nam,VNM,0.704
+Vanuatu,VUT,0.609
+Samoa,WSM,0.715
+Yemen,YEM,0.47
+South Africa,ZAF,0.709
+Zambia,ZMB,0.584
+Zimbabwe,ZWE,0.571
